@@ -1,0 +1,57 @@
+*
+body
+{
+	margin:10px;
+    text-align:left;
+	background-color:black;
+	color:black;
+}
+
+div#general
+{
+	width:83%;
+    height:790px;
+	background-color:black;
+	margin-left:10%;
+
+}
+div#superior
+{
+    width:100%;
+    height:120px;
+	background-color:rgba(255,255,0,0.5);
+	margin-left:0px;
+}
+div#pie
+{
+	margin-top:620px;
+    width:100%;
+    height:50px;
+	background-color:rgba(255,255,0,0.5);
+	margin-left:0px;
+}
+div#izq
+{
+	text-align:left;
+	margin-top:-660px;
+    width:40%;
+    height:76%;
+	margin-left:0px;
+	background-color:#E7E7DC;
+}
+div#cent
+{
+	margin-top:-600px;
+    height:76%;	
+	width:35%;
+	margin-left:41%;
+	background-color:#E7E7DC;
+}
+div#barra
+{
+	margin-top:-600px;
+    height:76%;	
+	width:23%;
+	margin-left:77%;
+	background-color:#CDCDCD;
+}
